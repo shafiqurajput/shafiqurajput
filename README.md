@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/shafiq-ur-rehman-322aa7210"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:dev.shafeeque@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/itx_buddyz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=shafiquerajput&style=for-the-badge&color=6C63FF&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shafiqurajput&style=for-the-badge&color=6C63FF&label=Profile+Views" alt="Profile views" />
 </p>
 
 </div>
@@ -98,12 +98,12 @@ I turn scattered, manual processes into connected automation systems: high-conve
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shafiquerajput&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiquerajput&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shafiqurajput&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqurajput&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=shafiquerajput&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=shafiqurajput&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 
-<img width="100%" src="https://ghchart.rshah.org/6C63FF/shafiquerajput" alt="GitHub contribution chart" />
+<img width="100%" src="https://ghchart.rshah.org/6C63FF/shafiqurajput" alt="GitHub contribution chart" />
 
 </div>
 
